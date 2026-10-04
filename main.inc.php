@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Album Navigation
-Version: 16.a
+Version: 16.b
 Description: Navigation between sibling albums and back to the parent album.
 Plugin URI: https://piwigo.org/ext/extension_view.php?eid=1117
 Author: Luc Chapon
